@@ -1,0 +1,8 @@
+{
+  "name": "TrendingZone.pk - Official Brand Store",
+  "description": "Premium e-commerce platform for TrendingZone.pk, owned by Ali Asad. Featuring a curated collection of trending brands with seamless WhatsApp integration and AI-powered shopping assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
